@@ -1,0 +1,2 @@
+#!/usr/bin/python3
+print("The Zen of Python, by Tim Peters\n\nBeautiful > ugly\nExplicit > implicit\nSimple > complex\nComplex > complicated\nFlat > nested\nSparse > dense\nReadability counts\nSpecial cases shouldn't break rules\nPracticality > purity\nErrors shouldn't pass silently, unless silenced\nRefuse temptation to guess in ambiguity\nOne obvious way to do it\nNow > never\nNever > *right* now\nHard to explain implementation = bad idea\nEasy to explain implementation = may be a good idea\nNamespaces are one honking great idea -- let's do more of those!")
